@@ -11,5 +11,5 @@ tr:nth-child(2n) {
     background-color: #dddddd;
 }
 tr :hover {
-    background-color: brown
+    background-color: greenyellow
 }
